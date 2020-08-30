@@ -1,0 +1,142 @@
+body{ margin: 0;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+color: #40514E;
+
+}
+
+p {
+  line-height: 2;
+}
+h1{color: #00416d;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+}
+
+h2{font-family: 'Montserrat', sans-serif;
+  color: #00416d;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 10%;
+  height: 0;
+  border-color: #f1f3f8;
+  margin: 100px auto;
+}
+h3{
+  color: #00416d;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{ background-color: #d6e0f0;
+  position: relative;
+  padding: 50px;
+}
+
+.middle-container { margin: 100px 0;
+}
+
+.bottom-container {
+  margin: 30px auto 0 auto;
+  line-height: 2;
+  background-color: #68b0ab;
+  padding: 40px;
+
+}
+
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+
+
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+  text-align: left;
+
+}
+
+.top-cloud{position: absolute;
+  padding: 20px
+  top: 20px;
+  right: 200px;
+}
+
+.bottom-cloud{position: absolute; right: 50px
+  top: 300px;
+  left: 200px
+}
+
+.chosen-img {border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+
+.chosen {border-radius: 100%;
+  width: 20%;
+}
+
+.floro{
+  border-radius: 5%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.footer-text {
+  color: white;
+  font-size: 0.625rem;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.link {
+ padding: 30px;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	font-weight:bold;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+  margin: 50px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 10px
+}
+
+a:hover{
+  color: white
+}
